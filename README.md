@@ -6,4 +6,4 @@ With approximately two years of experience, I have a diverse background working 
 
 Recognizing the advantages of professional stability, I transitioned to a Python developer role within a company. My focus is on integrating software solutions to streamline routine tasks for colleagues, ultimately enhancing productivity and efficiency. I am currently a mid-level Python developer and am looking for a company where I can continue my growth. 😊🚀
 
-You can check my resume here -> https://docs.google.com/document/d/1_CwELsoY-GnrYjirdKd0v_63CCK19DTnNOW0xYV3evE/edit?usp=sharing
+You can check my resume here -> https://drive.google.com/file/d/1b8y6uATnM5RqwRZrRPm9DHG2gmnsx-ZS/view?usp=sharing
