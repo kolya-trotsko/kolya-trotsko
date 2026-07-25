@@ -1,8 +1,10 @@
 Hi,
 
-My name is Mykola Trotsko, and I am a Python Developer.
+I’m Mykola Trotsko, a Python Developer with over five years of hands-on software development experience, specializing in backend development, data integration, and process automation.
 
-I have approximately three years of professional experience and a diverse technical background, including web scraping, website and API development, process automation, testing, CI/CD configuration, desktop application development, Telegram bot development, as well as designing and optimizing SQL queries and database processes.
+My experience includes building web applications and REST APIs, developing ETL and data processing pipelines, automating business processes, optimizing SQL queries and database workflows, implementing automated testing and CI/CD, and creating desktop applications and web scraping solutions.
 
-You can view my resume here →
+I focus on building reliable and maintainable solutions that improve system performance, data quality, and operational efficiency.
+
+You can view my resume here:
 https://docs.google.com/document/d/1_CwELsoY-GnrYjirdKd0v_63CCK19DTnNOW0xYV3evE/edit?usp=sharing
